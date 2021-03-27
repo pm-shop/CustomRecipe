@@ -1,0 +1,5 @@
+name: CustomRecipe
+version: 1.0
+api: [ 3.0.0 ]
+main: ucs\customrecipe\Main
+author: UnChatSauvage
